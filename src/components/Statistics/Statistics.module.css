@@ -1,0 +1,40 @@
+.stats {
+  list-style-type: none;
+  padding: 0;
+  display: flex;
+}
+
+.stats li {
+  width: 70px;
+  height: 50px;
+  color: white;
+  display: flex;
+  flex-direction: column;
+}
+
+.percentage {
+  font-size: 18px;
+}
+.color1 {
+  background-color: #ff8c8c;
+}
+
+.color2 {
+  background-color: #8cb8ff;
+}
+
+.color3 {
+  background-color: #6db178;
+}
+
+.color4 {
+  background-color: #dbb44f;
+}
+
+.color5 {
+  background-color: #cb8cff;
+}
+
+.color6 {
+  background-color: #ff78ac;
+}
